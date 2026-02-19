@@ -1,0 +1,9 @@
+
+{
+  "name": "Dr. Amna's Physical Therapy & Rehab Center",
+  "description": "A professional, clinical-grade web application for physical therapy services, featuring high-conversion design and AI-integrated consultation assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
