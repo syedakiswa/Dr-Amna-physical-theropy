@@ -11,7 +11,7 @@ const About: React.FC = () => {
           <SectionWrapper>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=800" 
+                src="/doctor.png" 
                 alt="Dr. Amna in clinic" 
                 className="rounded-3xl shadow-2xl relative z-10"
               />
