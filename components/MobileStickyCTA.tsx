@@ -7,7 +7,7 @@ const MobileStickyCTA: React.FC = () => {
   return (
     <div className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white border-t border-medical-primary/10 px-4 py-3 flex gap-3 shadow-2xl">
       <a 
-        href="tel:+15550000000"
+        href="tel:+923362415036"
         className="flex-1 flex items-center justify-center space-x-2 bg-medical-light border border-medical-primary/20 text-medical-primary py-3 rounded-xl font-bold text-sm active:bg-medical-primary active:text-white transition-colors"
       >
         <Phone className="w-4 h-4" />
